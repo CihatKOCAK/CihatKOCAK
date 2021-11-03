@@ -1,4 +1,4 @@
- <img style="vertical-align:middle" width="150" src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif">
+ <img style="vertical-align:middle" src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif">
   ###A little more about me...
 
 
