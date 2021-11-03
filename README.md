@@ -1,4 +1,8 @@
-### <a style="align: center;"> <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="150"> A little more about me...  </a>
+<div>
+ ### <img style="vertical-align:middle" src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif">
+  <span style="">A little more about me... </span>
+</div>
+
 
 ```javascript
 const cihatKocak = {
