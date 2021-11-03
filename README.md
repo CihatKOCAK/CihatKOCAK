@@ -1,9 +1,19 @@
-### Hi there 👋
+
 
 ![Screen Shot](imgs/SpaceMan.png)
-
-
-
+### <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="50"> A little more about me...  
+```javascript
+const cihatKocak = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
+  tools: [React, Redux, NodeJS, Storybook, Material ui, Heroku],
+  techCommunities: {
+                        coorganizer: "patika dev",
+                        mentor: "kodluyoruz"
+                      },
+ challenge: "not for now"
+}
+```
 | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
