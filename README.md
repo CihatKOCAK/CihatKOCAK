@@ -4,10 +4,7 @@
 
 
 
-| <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" 
-    alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://www.linkedin.com/in/cihat-kocakk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
