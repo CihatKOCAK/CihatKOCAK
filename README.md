@@ -2,7 +2,7 @@
 
 ![Screen Shot](imgs/SpaceMan.png)
 
-<div>
+<div style="margin: auto; border: 3px solid green; padding: 10px;">
 <div>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatKOCAK&theme=synthwave&show_icons=true&count_private=true "My GitHub stats")
 </div>
