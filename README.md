@@ -3,7 +3,7 @@
 ```javascript
 const cihatKocak = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
+  code: [Javascript, Typescript, Html, Css, Python, Java, Php],
   tools: [React, Redux, NodeJS, Storybook, MaterialUI, Heroku],
   techCommunities: {
                         coorganizer: "patika dev",
