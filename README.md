@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-![Screen Shot](https://github.com/CihatKOCAK/CihatKOCAK/tree/main/imgs/SpaceMan.png)
+![Screen Shot](imgs/SpaceMan.png)
 
-![Cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatKOCAK&theme=synthwave&show_icons=true&count_private=true “Cihat's GitHub stats”)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&theme=synthwave “Cihat Top Languages Card”)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatKOCAK&theme=synthwave&show_icons=true&count_private=true "My GitHub stats")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&theme=synthwave "My Top Languages Card")
 
 <a href="https://www.linkedin.com/in/cihat-kocakk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/davsanavi">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
