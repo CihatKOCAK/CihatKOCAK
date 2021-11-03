@@ -4,7 +4,7 @@
 const cihatKocak = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
-  tools: [React, Redux, NodeJS, Storybook, Material-ui, Heroku],
+  tools: [React, Redux, NodeJS, Storybook, mui, Heroku],
   techCommunities: {
                         coorganizer: "patika dev",
                         mentor: "kodluyoruz"
