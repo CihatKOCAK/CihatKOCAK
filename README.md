@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=”imgs/SpaceMan.png” alt=”alt text” width=”200"/>
+<img src=”https://github.com/CihatKOCAK/CihatKOCAK/tree/main/imgs/SpaceMan.png” alt=”alt text” width=”200"/>
 
 <!--
 **CihatKOCAK/CihatKOCAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
