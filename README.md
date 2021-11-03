@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="150"> A little more about me...  
+### <a> <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="150"> A little more about me...  </a>
 
 ```javascript
 const cihatKocak = {
