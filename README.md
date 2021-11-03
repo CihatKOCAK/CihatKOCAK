@@ -1,7 +1,7 @@
-<div>
- ### <img style="vertical-align:middle" src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif">
-  <span style="">A little more about me... </span>
-</div>
+ <img style="vertical-align:middle" width="150" src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif">
+  ###A little more about me...
+
+
 
 
 ```javascript
