@@ -2,14 +2,13 @@
 
 ![Screen Shot](imgs/SpaceMan.png)
 
-<div style="margin: auto; border: 3px solid green; padding: 10px;">
-<div>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatKOCAK&theme=synthwave&show_icons=true&count_private=true "My GitHub stats")
-</div>
-<div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&theme=synthwave "My Top Languages Card")
-</div>
-</div>
+
+| <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <a href="https://www.linkedin.com/in/cihat-kocakk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/davsanavi">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
