@@ -19,7 +19,7 @@ const cihatKocak = {
 | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
- <a align="center"><a href="https://www.linkedin.com/in/cihat-kocakk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>  <a href="https://twitter.com/davsanavi">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>  <a href="https://www.instagram.com/cihatkocakk/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> </a>
+<a href="https://www.linkedin.com/in/cihat-kocakk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>  <a href="https://twitter.com/davsanavi">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>  <a href="https://www.instagram.com/cihatkocakk/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> <a href="https://www.hackerrank.com/pcihatkocakk/">![alt text](https://img.shields.io/badge/-hackerrank-0e76a8?style=plastic&logo=hackerrank)</a>
 
 
 <!--
