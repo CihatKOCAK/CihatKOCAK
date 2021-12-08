@@ -6,8 +6,8 @@ const cihatKocak = {
   code: [Javascript, Typescript, Html, Css, Python, Java, Php],
   tools: [React, Redux, NodeJS, Storybook, MaterialUI, Heroku],
   techCommunities: {
-                        coorganizer: "patika dev",
-                        mentor: "kodluyoruz"
+                        coorganizer: "kodluyoruz",
+                        mentor: "patika dev"
                       },
  challenge: "not for now"
 }
