@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong> Thanks for visiting my profile, see you next time!  <img style="padding-left : 15px" src="./bye_icon.svg" height="30px"> </img></strong>
+        <strong> Thanks for visiting my profile, see you next time!  <img style="padding-left : 15px" src="../bye_icon.svg" height="30px"> </img></strong>
       </div>
 		</div>
 	</foreignObject>
