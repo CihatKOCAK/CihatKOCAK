@@ -20,6 +20,7 @@ const cihatKocak = {
 | ------------- | ------------- |
 
 <a href="https://www.linkedin.com/in/cihat-kocakk/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>  <a href="https://twitter.com/davsanavi">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>  <a href="https://www.instagram.com/cihatkocakk/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> <a href="https://www.hackerrank.com/pcihatkocakk/">![alt text](https://img.shields.io/badge/-hackerrank-0e76a8?style=plastic&logo=hackerrank)</a>
+<a href="https://medium.com/@pcihatkocakk">![alt text](https://img.shields.io/badge/-medium-0e76a8?style=plastic&logo=medium)</a>
 ![](https://komarev.com/ghpvc/?username=cihatKOCAK&&color=blueviolet&label=PROFILE+VIEWS)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="/bb.svg" />
