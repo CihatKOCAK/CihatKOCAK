@@ -1,3 +1,7 @@
+<body>
+
+<center>
+
 ### <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -23,17 +27,18 @@ const cihatKocak = {
   <br />
    <a href="https://github.com/CihatKOCAK"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CihatKOCAK&bg_color=2b213a&color=d5308e&line=d5308e&point=FFFFFF&hide_border=true" /></a>
   <br />
-  </div>
+  </div> 
 
-| <a href="https://www.linkedin.com/in/cihat-kocakk/" target="_blank"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>  | <a href="https://twitter.com/davsanavi" target="_blank">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> | <a href="https://www.instagram.com/cihatkocakk/" target="_blank">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a> | <a href="https://www.hackerrank.com/pcihatkocakk/" target="_blank">![alt text](https://img.shields.io/badge/-hackerrank-0e76a8?style=plastic&logo=hackerrank)</a> |
-<a href="https://medium.com/@pcihatkocakk" target="_blank">![alt text](https://img.shields.io/badge/-medium-0e76a8?style=plastic&logo=medium)</a> |
-![](https://komarev.com/ghpvc/?username=cihatKOCAK&&color=blueviolet&label=PROFILE+VIEWS) |
-| ------ | ------ | ------ | ------ | ------ | ------ |
+ <a href="https://www.linkedin.com/in/cihat-kocakk/" target="_blank"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>  <a href="https://twitter.com/davsanavi" target="_blank">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>  <a href="https://www.instagram.com/cihatkocakk/" target="_blank">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>  <a href="https://www.hackerrank.com/pcihatkocakk/" target="_blank">![alt text](https://img.shields.io/badge/-hackerrank-0e76a8?style=plastic&logo=hackerrank)</a>  <a href="https://medium.com/@pcihatkocakk" target="_blank">![alt text](https://img.shields.io/badge/-medium-0e76a8?style=plastic&logo=medium)</a> 
+![](https://komarev.com/ghpvc/?username=cihatKOCAK&&color=blueviolet&label=PROFILE+VIEWS) 
+
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="/bb.svg" />
 <br />
-
+</center>
+  
+  </body>
 <!--
 **CihatKOCAK/CihatKOCAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
