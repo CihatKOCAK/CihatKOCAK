@@ -25,7 +25,7 @@ const cihatKocak = {
 
 <div>
   <br />
-   <a href="https://github.com/CihatKOCAK"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CihatKOCAK&bg_color=2b213a&color=d5308e&line=d5308e&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/CihatKOCAK"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CihatKOCAK&bg_color=2b213a&color=d5308e&line=d5308e&point=c4c9d1&hide_border=true" /></a>
   <br />
   </div> 
 
