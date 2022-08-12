@@ -7,7 +7,7 @@
 ```javascript
 const cihatKocak = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Html, Css, Python, Java, Php],
+  code: [Javascript, Typescript, Html, Css],
   tools: [React, Redux, NodeJS, Storybook, MaterialUI, Heroku],
   techCommunities: {
                         coorganizer: "kodluyoruz",
