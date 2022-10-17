@@ -20,7 +20,7 @@ const cihatKocak = {
 ![Screen Shot](imgs/SpaceMan.png)
 
 
-| <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CihatKOCAK&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/CihatKOCAK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihatKOCAK&langs_count=10&show_icons=true&&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div>
