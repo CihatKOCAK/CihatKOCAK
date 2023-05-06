@@ -25,7 +25,9 @@ const cihatKocak = {
 
 <div>
   <br />
+  
    ![Snake animation](https://github.com/CihatKOCAK/CihatKOCAK/blob/output/github-contribution-grid-snake.svg)
+ 
   <br />
   </div> 
 
