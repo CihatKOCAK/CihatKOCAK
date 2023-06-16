@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.READ_ME_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.READ_ME_SNAKE }}
