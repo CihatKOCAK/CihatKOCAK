@@ -48,9 +48,7 @@ const cihatKocak = {
 ![](https://komarev.com/ghpvc/?username=cihatKOCAK&&color=blueviolet&label=PROFILE+VIEWS) 
 
   </div> 
-<div align="center" id="update_code_counter">
-  This profile contains a total of x lines of code across all projects. We're growing steadily.
- </div> 
+<div align="center" id="update_code_counter">This profile contains a total of 893.733 lines of code across all projects. We're growing steadily.</div> 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="/bb.svg" />
 <br />
