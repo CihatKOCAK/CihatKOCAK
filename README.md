@@ -17,14 +17,26 @@ const cihatKocak = {
     MaterialUI,
     ReactBootstrap,
     ReactSemanticUI,
+    PostgreSQL,
+    Redis,
+    TypeORM,
+    MongoDB
   ],
-  devRole: "FrontEnd" | "MERN",
+  devRole: "FrontEnd" | "MERN" | "PERN",
   techCommunities: {
     coorganizer: "kodluyoruz",
     mentor: "patika dev",
   },
   challenge: "not for now",
+  backendSpecialties: [
+    "API with Node.js",
+    "JWT Authentication",
+    "PostgreSQL",
+    "Redis",
+    "TypeORM"
+  ]
 };
+
 ```
 
 <!--![Screen Shot](imgs/SpaceMan.png) -->
