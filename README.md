@@ -7,34 +7,61 @@
 ```javascript
 const cihatKocak = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Html, Css, Saas, Scss],
-  tools: [
-    Jquery,
-    React,
-    Redux,
-    NodeJS,
-    Storybook,
-    MaterialUI,
-    ReactBootstrap,
-    ReactSemanticUI,
-    PostgreSQL,
-    Redis,
-    TypeORM,
-    MongoDB
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Sass", "SCSS"],
+  frontend: [
+    "React",
+    "Redux",
+    "Next.js",
+    "Storybook",
+    "Jest",
+    "TailwindCSS",
+    "Material UI",
+    "React Bootstrap",
+    "React Semantic UI",
+    "SimpleKeyboard"
   ],
-  devRole: "FrontEnd" | "MERN" | "PERN",
-  techCommunities: {
-    coorganizer: "kodluyoruz",
-    mentor: "patika dev",
-  },
-  challenge: "not for now",
-  backendSpecialties: [
-    "API with Node.js",
+  backend: [
+    "Node.js",
+    "Express.js",
+    "NestJS",
     "JWT Authentication",
+    "RESTful APIs",
+    "WebSockets",
+    "MongoDB",
     "PostgreSQL",
     "Redis",
-    "TypeORM"
-  ]
+    "TypeORM",
+    "Prisma"
+  ],
+  devOps: [
+    "PM2",
+    "Nginx",
+    "Docker",
+    "Linux Mint",
+    "Shell Scripting"
+  ],
+  tools: [
+    "VSCode",
+    "Git",
+    "GitHub",
+    "Figma",
+    "Postman",
+    "MongoDB Compass"
+  ],
+  devRole: ["Full Stack", "MERN", "PERN"],
+  techCommunities: {
+    coorganizer: "Kodluyoruz",
+    mentor: "Patika.dev",
+    contributor: "Open Source"
+  },
+  currentFocus: [
+    "Network Monitoring System",
+    "Zeek & Pi-hole with Node.js + React",
+    "Security & Traffic Analysis",
+    "MAC-based Trace Logging"
+  ],
+  challenge: "Building full-stack traffic monitoring system",
+  funFact: "Still haven't given up on the perfect keyboard UI 😄"
 };
 
 ```
